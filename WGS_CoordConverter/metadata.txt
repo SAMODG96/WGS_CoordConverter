@@ -2,17 +2,17 @@
 name=WGS CoordConverter
 qgisMinimumVersion=3.22
 qgisMaximumVersion=3.99
-description=Convertit les coordonnées DD en DMS et, en option, en coordonnées projetées dans un SCR cible. 
-about=Plugin pour convertir les coordonnées : DD → DMS et éventuellement reprojeter vers un SCR cible. 
-    Auteur : OUEDRAOGO SALAM — E-mail : saam.odg@gmail.com — Contact : +225 0789431882
+description=Convertit les coordonnées DD en DMS et, en option, en coordonnées projetées dans un SCR cible.
+about=Plugin pour convertir les coordonnées : DD → DMS et éventuellement reprojeter vers un SCR cible.
+    Auteur : OUEDRAOGO SALAM — Email : saam.odg@gmail.com — Contact : +225 0789431882
 version=1.2.4
 author=OUEDRAOGO SALAM
 email=saam.odg@gmail.com
 category=Vector
 tags=coordinates,conversion,DMS,DD,projection
-homepage=https://github.com/username/WGS_CoordConverter
-tracker=https://github.com/username/WGS_CoordConverter/issues
-repository=https://github.com/username/WGS_CoordConverter
+homepage=https://github.com/SAMODG96/WGS_CoordConverter
+tracker=https://github.com/SAMODG96/WGS_CoordConverter/issues
+repository=https://github.com/SAMODG96/WGS_CoordConverter
 icon=icon.svg
 experimental=False
 deprecated=False
