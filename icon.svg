@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect x="2" y="2" width="60" height="60" rx="8" ry="8" fill="#1f2937" stroke="#0ea5e9" stroke-width="3"/>
-  <circle cx="32" cy="26" r="10" fill="none" stroke="#22d3ee" stroke-width="3"/>
-  <path d="M32 40 L32 56" stroke="#22d3ee" stroke-width="3"/>
-  <path d="M20 26 H44" stroke="#22d3ee" stroke-width="2"/>
-  <path d="M32 14 V38" stroke="#22d3ee" stroke-width="2"/>
-  <text x="8" y="60" fill="#e5e7eb" font-size="10" font-family="Arial">WGS</text>
-</svg>
